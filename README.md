@@ -2,8 +2,12 @@
 
 I am Jhuan Reategui Solis
 
-- 🔭 I’m currently working on [GrandVisionHQ](https://github.com/GrandVisionHQ)
+- 🔭 I’m currently working on Banco de Credito del Perú BCP
 - 👯 I’m looking to collaborate on [Aspat](http://aspat.org.pe)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chijure&label=Profile%20views&color=0e75b6&style=flat" alt="chijure" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chijure" alt="chijure" /></a> </p>
 
 ![Github Stats for Jhuan Reategui Solis](https://github-readme-stats.vercel.app/api?username=chijure&show_icons=true&hide_border=true)
 
@@ -37,5 +41,10 @@ I am Jhuan Reategui Solis
 [![Twitter: Chijure](https://img.shields.io/twitter/follow/chijure01?style=social)](https://twitter.com/chijure01)
 [![Linkedin: Chijure](https://img.shields.io/badge/-Jhuan%20Reategui%20Solis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-reategui-solis/)](https://www.linkedin.com/in/juan-reategui-solis/)
 [![GitHub Chijure](https://img.shields.io/github/followers/chijure?label=follow&style=social)](https://github.com/chijure)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chijure&" alt="chijure" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chijure&show_icons=true&locale=en&layout=compact" alt="chijure" /></p>
 
 <p><a href="http://reateguisolisjm.com">🌐 Check out my website</a></p>
